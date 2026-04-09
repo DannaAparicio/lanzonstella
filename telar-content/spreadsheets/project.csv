@@ -2,3 +2,4 @@ order,story_id,title,subtitle,byline,private
 orden,id_historia,titulo,subtitulo,firma,privada
 0,plantilla_en_blanco,metal sheet,,,
 1,blank_template,metal sheet,,,
+2,lazon-stella,lazon stella,,,
